@@ -1,4 +1,4 @@
-# ISS_et_precession_nodale
+# Simulation numérique de la précession nodale de l'ISS
 
 ## Calcul du potentiel gravitationnel
 
