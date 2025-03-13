@@ -21,7 +21,12 @@ $$V(R,\lambda)=-\dfrac{\mu_T}{R}\left(1 - \dfrac{J_2}{2}\left(\dfrac{R_T}{R}\rig
 
 Un terme complémentaire apparaît alors pour l'accélération, dont la direction ne passe plus par le centre de la Terre.
 
-$$\dfrac{3}{2}J_2\mu_T\left(\dfrac{R_T}{R}\right)^2\begin {pmatrix}\left(\dfrac{X}{R^3}\right)\left(5\left(\dfrac{Z}{R}\right)^2-1\right)\\\left(\dfrac{Y}{R^3}\right)\left(5\left(\dfrac{Z}{R}\right)^2-1\right)\\\left(\dfrac{Z}{R^3}\right)\left(5\left(\dfrac{Z}{R}\right)^2-3\right)\end{pmatrix}$$
+$$\dfrac{3}{2}J_2\mu_T\left(\dfrac{R_T}{R}\right)^2
+\begin{pmatrix}
+\left(\dfrac{X}{R^3}\right)\left(5\left(\dfrac{Z}{R}\right)^2-1\right)\\
+\left(\dfrac{Y}{R^3}\right)\left(5\left(\dfrac{Z}{R}\right)^2-1\right)\\
+\left(\dfrac{Z}{R^3}\right)\left(5\left(\dfrac{Z}{R}\right)^2-3\right)
+\end{pmatrix}$$
 
 Une conséquence bien visible de cette perturbation apparaît, avec la ligne des noeuds associée à l'orbite du satellite qui tourne dans le sens rétrograde. Il s'agit de la **précession nodale**.
 
