@@ -46,8 +46,10 @@ https://mecaspa.cannes-aero-patrimoine.net/COURS_SA/PERT_J2/J2.htm
 
 https://ipag.osug.fr/~beusth/gravm2/gravm2.pdf (page 11, (1.27))
 
-## Le programmme
+## Le programme
 
 Le notebook est accessible [ici](precession_nodale.ipynb)
+
+On peut le retrouver aussi sur Google Colaboratory :
 
 https://colab.research.google.com/drive/18HLQ1Mebzys4yJQrFKfJlhxDRZEQRc6c?usp=drive_link
