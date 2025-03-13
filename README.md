@@ -32,6 +32,12 @@ Une conséquence bien visible de cette perturbation apparaît, avec la ligne des
 
 L'objet du programme proposé est de simuler numériquement cet effet pour l'ISS, et de confronter les résultats aux données fournies par le JPL.
 
-Une conséquence bien visible de cette perturbation apparaît, avec la ligne des noeuds associée à l'orbite du satellite qui tourne dans le sens rétrograde. Il s'agit de la **précession nodale**.
+## Documents
 
-L'objet du programme proposé est de simuler numériquement cet effet pour l'ISS, et de confronter les résultats aux données fournies par le JPL.
+https://fr.wikipedia.org/wiki/Pr%C3%A9cession_nodale
+
+https://mecaspa.cannes-aero-patrimoine.net/COURS_SA/PARAMORB/Paramorb.htm
+
+https://mecaspa.cannes-aero-patrimoine.net/COURS_SA/PERT_J2/J2.htm
+
+https://ipag.osug.fr/~beusth/gravm2/gravm2.pdf (page 11, (1.27))
