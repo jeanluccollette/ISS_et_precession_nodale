@@ -8,7 +8,7 @@ $$V(R,\lambda)=-\dfrac{\mu_T}{R}$$
 
 Il en résulte une accélération qui détermine un mouvement classique sur une orbite de Kepler.
 
-$$-\dfrac{\mu_T}{R^3}\begin{pmatrix}X\\Y\\Z\end{pmatrix}$$
+$$-\dfrac{\mu_T}{R^3}\begin{matrix}X\\Y\\Z\end{matrix}$$
 
 Pour une Terre ellipsoïdale avec un rayon moyen $R_T=6371 \text{ km}$, on modélise approximativement le potentiel gravitationnel avec un terme complémentaire au précédent ($J_2 = 1,082625\times10^{−3}$).
 
