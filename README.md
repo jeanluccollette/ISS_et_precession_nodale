@@ -1,5 +1,9 @@
 # Simulation numérique de la précession nodale de l'ISS
 
+## La vidéo
+
+https://www.youtube.com/watch?v=RTDd-DobZDc
+
 ## Calcul du potentiel gravitationnel
 
 Dans le référentiel géocentrique, le satellite a une position repérée par ses coordonnées $X$, $Y$ et $Z$, le plan de référence (coordonnées  $X$ et $Y$) étant le plan équatorial. Dans ce référentiel, $\lambda$ est la latitude ou la déclinaison. On note par ailleurs $R=\sqrt{X^2+Y^2+Z^2}$ et $\mu_T$ le paramètre gravitationnel standard de la Terre. Pour une Terre sphérique, le potentiel gravitationnel est :
@@ -41,3 +45,7 @@ https://mecaspa.cannes-aero-patrimoine.net/COURS_SA/PARAMORB/Paramorb.htm
 https://mecaspa.cannes-aero-patrimoine.net/COURS_SA/PERT_J2/J2.htm
 
 https://ipag.osug.fr/~beusth/gravm2/gravm2.pdf (page 11, (1.27))
+
+## Le programmme
+
+https://colab.research.google.com/drive/18HLQ1Mebzys4yJQrFKfJlhxDRZEQRc6c?usp=drive_link
