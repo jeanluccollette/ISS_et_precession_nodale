@@ -17,7 +17,7 @@ Z
 
 Pour une Terre ellipsoïdale avec un rayon moyen $R_T=6371 \text{ km}$, on modélise approximativement le potentiel gravitationnel avec un terme complémentaire au précédent ($J_2 = 1,082625\times10^{−3}$).
 
-$$V(R,\lambda)=-\dfrac{\mu_T}{R}\left(1 - \dfrac{J_2}{2}\left(\dfrac{R_T}{R}\right)^2(3\sin^2(\lambda)-1)\right)$$
+$$V(R,\lambda)=-\dfrac{\mu_T}{R}\left(1-\dfrac{J_2}{2}\left(\dfrac{R_T}{R}\right)^2(3\sin^2(\lambda)-1)\right)$$
 
 Un terme complémentaire apparaît alors pour l'accélération, dont la direction ne passe plus par le centre de la Terre.
 
@@ -27,6 +27,10 @@ $$\dfrac{3}{2}J_2\mu_T\left(\dfrac{R_T}{R}\right)^2
 \left(\dfrac{Y}{R^3}\right)\left(5\left(\dfrac{Z}{R}\right)^2-1\right)\\
 \left(\dfrac{Z}{R^3}\right)\left(5\left(\dfrac{Z}{R}\right)^2-3\right)
 \end{pmatrix}$$
+
+Une conséquence bien visible de cette perturbation apparaît, avec la ligne des noeuds associée à l'orbite du satellite qui tourne dans le sens rétrograde. Il s'agit de la **précession nodale**.
+
+L'objet du programme proposé est de simuler numériquement cet effet pour l'ISS, et de confronter les résultats aux données fournies par le JPL.
 
 Une conséquence bien visible de cette perturbation apparaît, avec la ligne des noeuds associée à l'orbite du satellite qui tourne dans le sens rétrograde. Il s'agit de la **précession nodale**.
 
