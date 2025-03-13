@@ -48,4 +48,6 @@ https://ipag.osug.fr/~beusth/gravm2/gravm2.pdf (page 11, (1.27))
 
 ## Le programmme
 
+Le notebook est accessible [ici](precession_nodale.ipynb)
+
 https://colab.research.google.com/drive/18HLQ1Mebzys4yJQrFKfJlhxDRZEQRc6c?usp=drive_link
