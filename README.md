@@ -12,7 +12,7 @@ $$V(R,\lambda)=-\dfrac{\mu_T}{R}$$
 
 Il en résulte une accélération qui détermine un mouvement classique sur une orbite de Kepler.
 
-$$-\dfrac{\mu_T}{R^3}
+$$-\overrightarrow{\nabla}V=-\dfrac{\mu_T}{R^3}
 \begin{pmatrix}
 X\\
 Y\\
@@ -25,7 +25,13 @@ $$V(R,\lambda)=-\dfrac{\mu_T}{R}\left(1-\dfrac{J_2}{2}\left(\dfrac{R_T}{R}\right
 
 Un terme complémentaire apparaît alors pour l'accélération, dont la direction ne passe plus par le centre de la Terre.
 
-$$\dfrac{3}{2}J_2\mu_T\left(\dfrac{R_T}{R}\right)^2
+$$-\overrightarrow{\nabla}V=-\dfrac{\mu_T}{R^3}
+\begin{pmatrix}
+X\\
+Y\\
+Z
+\end{pmatrix}+
+\dfrac{3}{2}J_2\mu_T\left(\dfrac{R_T}{R}\right)^2
 \begin{pmatrix}
 \left(\dfrac{X}{R^3}\right)\left(5\left(\dfrac{Z}{R}\right)^2-1\right)\\
 \left(\dfrac{Y}{R^3}\right)\left(5\left(\dfrac{Z}{R}\right)^2-1\right)\\
